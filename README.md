@@ -1,4 +1,4 @@
-# AoC-2024
+# AoC-2025
 Advent of Code 2025
 
 Archive of my AoC 2025 solutions.
@@ -18,3 +18,4 @@ Archive of my AoC 2025 solutions.
 |10 	|                  |              	  |
 |11 	|                  |              	  |
 |12 	|                  |              	  |
+
