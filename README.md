@@ -12,7 +12,7 @@ Archive of my AoC 2025 solutions.
 |04 	|:white_check_mark:|:white_check_mark:|
 |05 	|:white_check_mark:|:white_check_mark:|
 |06 	|:white_check_mark:|:white_check_mark:|
-|07 	|                  |              	  |
+|07 	|:white_check_mark:|:white_check_mark:|
 |08 	|                  |              	  |
 |09 	|                  |              	  |
 |10 	|                  |              	  |
